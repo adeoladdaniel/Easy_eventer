@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="265.898" height="197.28" viewBox="0 0 265.898 197.28">
+  <g id="tickets" transform="translate(-1 -9)">
+    <rect id="Rectangle_2123" data-name="Rectangle 2123" width="8.577" height="60.042" transform="translate(61.042 129.083)"/>
+    <rect id="Rectangle_2124" data-name="Rectangle 2124" width="8.577" height="60.042" transform="translate(18.155 129.083)"/>
+    <rect id="Rectangle_2125" data-name="Rectangle 2125" width="8.577" height="60.042" transform="translate(78.196 129.083)"/>
+    <rect id="Rectangle_2126" data-name="Rectangle 2126" width="8.577" height="60.042" transform="translate(121.083 129.083)"/>
+    <rect id="Rectangle_2127" data-name="Rectangle 2127" width="8.577" height="60.042" transform="translate(163.97 129.083)"/>
+    <rect id="Rectangle_2128" data-name="Rectangle 2128" width="17.155" height="60.042" transform="translate(35.309 129.083)"/>
+    <rect id="Rectangle_2129" data-name="Rectangle 2129" width="17.155" height="60.042" transform="translate(95.351 129.083)"/>
+    <rect id="Rectangle_2130" data-name="Rectangle 2130" width="17.155" height="60.042" transform="translate(138.238 129.083)"/>
+    <path id="Path_1619" data-name="Path 1619" d="M262.61,47.6a4.287,4.287,0,0,0,4.289-4.289V13.289A4.287,4.287,0,0,0,262.61,9H91.062a4.288,4.288,0,0,0-4.289,4.289V26.155H56.753a4.288,4.288,0,0,0-4.289,4.289V60.464a4.288,4.288,0,0,0,4.289,4.289,12.866,12.866,0,1,1,0,25.732,4.288,4.288,0,0,0-4.289,4.289v17.155H5.289A4.287,4.287,0,0,0,1,116.217v85.774a4.287,4.287,0,0,0,4.289,4.289H185.413a4.288,4.288,0,0,0,4.289-4.289V129.083h38.6a4.288,4.288,0,0,0,4.289-4.289V111.928H262.61a4.287,4.287,0,0,0,4.289-4.289V77.619a4.287,4.287,0,0,0-4.289-4.289,12.866,12.866,0,0,1,0-25.732ZM181.125,197.7H9.577v-77.2H181.125Zm42.887-77.2H189.7V103.351h-8.577v8.577H61.042v-13.3a21.444,21.444,0,0,0,0-42.021V34.732H181.125v8.577H189.7V34.732h34.309V56.609a21.444,21.444,0,0,0,0,42.021Zm34.309-39.031v21.877H232.589V94.774a4.288,4.288,0,0,0-4.289-4.289,12.866,12.866,0,1,1,0-25.732,4.288,4.288,0,0,0,4.289-4.289V30.443a4.288,4.288,0,0,0-4.289-4.289H95.351V17.577h162.97V39.454a21.444,21.444,0,0,0,0,42.021Z"/>
+    <rect id="Rectangle_2131" data-name="Rectangle 2131" width="8.577" height="8.577" transform="translate(181.125 51.887)"/>
+    <rect id="Rectangle_2132" data-name="Rectangle 2132" width="8.577" height="8.577" transform="translate(181.125 69.042)"/>
+    <rect id="Rectangle_2133" data-name="Rectangle 2133" width="8.577" height="8.577" transform="translate(181.125 86.196)"/>
+    <rect id="Rectangle_2134" data-name="Rectangle 2134" width="85.774" height="8.577" transform="translate(86.774 94.774)"/>
+    <rect id="Rectangle_2135" data-name="Rectangle 2135" width="85.774" height="8.577" transform="translate(86.774 77.619)"/>
+    <rect id="Rectangle_2136" data-name="Rectangle 2136" width="42.887" height="8.577" transform="translate(86.774 60.464)"/>
+  </g>
+</svg>

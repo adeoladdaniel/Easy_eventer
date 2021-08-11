@@ -1,0 +1,83 @@
+$primary-color: #232846;
+$white-color: #fff;
+$active-blue: #4B94E9;
+$nav-bg: #162438;
+$filter-active: #0079BD;
+$input-gray: #F2F2F4;
+$input-gray: #F2F2F4;
+$black-color: #1a202c;
+$event-red: #E53227;
+$black: #1a202c;
+
+%btn-shared{
+  display: inline-block;
+  border: none;
+  cursor: pointer;
+  color: $white-color;
+  letter-spacing: 0.075rem;
+  border-radius: 3px;
+  text-align: center;
+  font-weight: 400;
+  padding: .5rem .3rem;
+  max-width: 200px;
+  width: 100%;
+  margin: 0 auto;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.btn{
+  &-proceed{
+    @extend %btn-shared;
+    background: $event-red;
+  }
+
+  &-continue{
+    @extend %btn-shared;
+    background: none;
+    outline: 1px solid $input-gray;
+    color: $primary-color;
+    margin: 0 auto;
+  }
+  &-create{
+    @extend %btn-shared;
+    background: none;
+    outline: 1px solid $input-gray;
+    color: $primary-color;
+    height: 40px;
+    margin: 0;
+  }
+}
+
+input[type=text],
+input[type=password],
+input[type=number],
+input[type=email]{
+  width: 100%;
+  //max-width: 340px;
+  border: none;
+  padding: 12px 40px 12px 20px;
+  color: #232846;
+  background: $input-gray;
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: lighter;
+  outline: none;
+  border-radius: 5px;
+}
+
+textarea{
+  width: 100%;
+  max-width: 340px;
+  border: none;
+  padding: 12px 40px 12px 20px;
+  color: #232846;
+  background: $input-gray;
+  letter-spacing: 1px;
+  font-size: 12px;
+  outline: none;
+  border-radius: 5px;
+  &::placeholder{
+    font-family: DINPro, sans-serif;
+  }
+}
+

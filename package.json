@@ -1,0 +1,44 @@
+{
+  "name": "easyevent",
+  "version": "1.0.0",
+  "description": "easyevent website",
+  "author": "NCK Technologies",
+  "private": true,
+  "browserslist": "last 2 versions",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "NUXT_HOST=192.241.131.11 NUXT_PORT=3002 nuxt start"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^1.0.1",
+    "@nuxtjs/axios": "^5.6.0",
+    "@nuxtjs/toast": "^3.3.0",
+    "autoprefixer": "^9.6.1",
+    "axios": "^0.19.0",
+    "html2canvas": "^1.0.0-rc.5",
+    "js-cookie": "^2.2.1",
+    "jspdf": "^1.5.3",
+    "luxon": "^1.17.2",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "postcss-cli": "^6.1.3",
+    "rasterizehtml": "^1.3.0",
+    "vue": "^2.6.10",
+    "vue-cryptojs": "^2.1.0",
+    "vue-datetime": "^1.0.0-beta.10",
+    "vue-moment": "^4.0.0",
+    "vue-page-transition": "^0.2.2",
+    "vue-toasted": "^1.1.27",
+    "vuelidate": "^0.7.4",
+    "weekstart": "^1.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/moment": "^1.3.0",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0"
+  }
+}

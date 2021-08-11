@@ -1,0 +1,60 @@
+$mobile: 414px;
+$tab: 768px;
+$desktop: 992px;
+$ipadPro: 1024px;
+$extra-large: 1900px;
+
+
+@mixin screen($size, $pixels: null) {
+  @if $size=='tab' {
+    @media screen and (min-width: $tab) {
+      @content;
+    }
+  }
+
+  @else if $size=='ipad-pro' {
+    @media screen and (min-width: $ipadPro) {
+      @content;
+    }
+  }
+
+  @else if $size=='desktop' {
+    @media screen and (min-width: $desktop) {
+      @content;
+    }
+  }
+
+  @else if $size=='wide-screen' {
+    @media screen and (min-width: $extra-large) {
+      @content;
+    }
+  }
+
+  @else if $size=='custom' {
+    @media screen and (min-width: $pixels + px) {
+      @content;
+    }
+  }
+
+  @else {
+    @content;
+  }
+}
+
+
+@mixin btn {
+  font-family: DINPro-Medium, sans-serif;
+  font-weight: 900;
+  font-size: 1rem;
+  background: $event-blue;
+  // border: 3px solid $event-blue;
+  border: none;
+  color: $white-color;
+  padding: 15px;
+  letter-spacing: .6px;
+  cursor: pointer;
+}
+
+@mixin transit {
+  transition: 1s all ease-in;
+}

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135.072" height="141.153" viewBox="0 0 135.072 141.153">
+  <defs>
+    <filter id="Rectangle_2267" x="0" y="0" width="135.072" height="141.153" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.122"/>
+      <stop offset="0.55" stop-opacity="0.09"/>
+      <stop offset="1" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2780" data-name="Group 2780" transform="translate(-45 -434)">
+    <g id="Group_2779" data-name="Group 2779">
+      <g transform="matrix(1, 0, 0, 1, 45, 434)" filter="url(#Rectangle_2267)">
+        <rect id="Rectangle_2267-2" data-name="Rectangle 2267" width="117.071" height="123.153" transform="translate(9 6)" fill="#fff"/>
+      </g>
+      <circle id="Ellipse_212" data-name="Ellipse 212" cx="24.13" cy="24.13" r="24.13" transform="translate(56.572 441.74)" fill="#4a94e9" opacity="0.331"/>
+      <text id="_2" data-name="2" transform="translate(80.57 472.307)" font-size="21" font-family="Helvetica"><tspan x="-5.84" y="0">2</tspan></text>
+      <g id="Group_2709" data-name="Group 2709" transform="translate(-1440 -318)">
+        <rect id="Rectangle_2017" data-name="Rectangle 2017" width="67.216" height="49.578" transform="translate(1539.784 820.377)" opacity="0.2"/>
+        <path id="Path_1336" data-name="Path 1336" d="M0,0V53.63H67.455V0Z" transform="translate(1534.5 814.061)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_2018" data-name="Rectangle 2018" width="65.786" height="49.34" transform="translate(1535.453 817.398)" fill="#fff"/>
+        <rect id="Rectangle_2019" data-name="Rectangle 2019" width="65.786" height="2.622" transform="translate(1535.453 814.776)" fill="#f5f5f5"/>
+        <circle id="Ellipse_122" data-name="Ellipse 122" cx="0.636" cy="0.636" r="0.636" transform="translate(1536.725 815.411)" fill="#ff5252"/>
+        <circle id="Ellipse_123" data-name="Ellipse 123" cx="0.636" cy="0.636" r="0.636" transform="translate(1538.473 815.411)" fill="#ff0"/>
+        <circle id="Ellipse_124" data-name="Ellipse 124" cx="0.636" cy="0.636" r="0.636" transform="translate(1540.221 815.411)" fill="#69f0ae"/>
+        <rect id="Rectangle_2020" data-name="Rectangle 2020" width="32.893" height="49.34" transform="translate(1568.347 817.398)" fill="#565387"/>
+        <rect id="Rectangle_2021" data-name="Rectangle 2021" width="18.036" height="1.986" transform="translate(1540.697 834.4)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_2022" data-name="Rectangle 2022" width="18.036" height="1.986" transform="translate(1575.338 834.4)" fill="url(#linear-gradient-3)"/>
+        <rect id="Rectangle_2023" data-name="Rectangle 2023" width="17.479" height="1.43" transform="translate(1541.015 834.639)"/>
+        <rect id="Rectangle_2024" data-name="Rectangle 2024" width="23.995" height="1.271" transform="translate(1538.234 838.85)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_2025" data-name="Rectangle 2025" width="23.995" height="1.271" transform="translate(1572.875 838.85)" fill="url(#linear-gradient-3)"/>
+        <rect id="Rectangle_2026" data-name="Rectangle 2026" width="23.995" height="1.271" transform="translate(1572.875 840.836)" fill="url(#linear-gradient-3)"/>
+        <rect id="Rectangle_2027" data-name="Rectangle 2027" width="23.995" height="1.271" transform="translate(1572.875 842.822)" fill="url(#linear-gradient-3)"/>
+        <rect id="Rectangle_2028" data-name="Rectangle 2028" width="23.995" height="1.271" transform="translate(1572.875 844.808)" fill="url(#linear-gradient-3)"/>
+        <rect id="Rectangle_2029" data-name="Rectangle 2029" width="23.995" height="1.271" transform="translate(1572.875 846.795)" fill="url(#linear-gradient-3)"/>
+        <rect id="Rectangle_2030" data-name="Rectangle 2030" width="23.995" height="1.271" transform="translate(1538.234 840.836)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_2031" data-name="Rectangle 2031" width="23.995" height="1.271" transform="translate(1538.234 842.822)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_2032" data-name="Rectangle 2032" width="23.995" height="1.271" transform="translate(1538.234 844.808)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_2033" data-name="Rectangle 2033" width="23.995" height="1.271" transform="translate(1538.234 846.795)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_2034" data-name="Rectangle 2034" width="23.597" height="0.874" transform="translate(1538.473 839.008)"/>
+        <rect id="Rectangle_2035" data-name="Rectangle 2035" width="23.597" height="0.874" transform="translate(1538.473 840.995)"/>
+        <rect id="Rectangle_2036" data-name="Rectangle 2036" width="23.597" height="0.874" transform="translate(1538.473 842.981)"/>
+        <rect id="Rectangle_2037" data-name="Rectangle 2037" width="23.597" height="0.874" transform="translate(1538.473 844.967)"/>
+        <rect id="Rectangle_2038" data-name="Rectangle 2038" width="23.597" height="0.874" transform="translate(1538.473 846.954)"/>
+        <rect id="Rectangle_2039" data-name="Rectangle 2039" width="17.479" height="1.43" transform="translate(1575.577 834.639)" fill="#fff"/>
+        <rect id="Rectangle_2040" data-name="Rectangle 2040" width="23.597" height="0.874" transform="translate(1573.034 839.008)" fill="#fff"/>
+        <rect id="Rectangle_2041" data-name="Rectangle 2041" width="23.597" height="0.874" transform="translate(1573.034 840.995)" fill="#fff"/>
+        <rect id="Rectangle_2042" data-name="Rectangle 2042" width="23.597" height="0.874" transform="translate(1573.034 842.981)" fill="#fff"/>
+        <rect id="Rectangle_2043" data-name="Rectangle 2043" width="23.597" height="0.874" transform="translate(1573.034 844.967)" fill="#fff"/>
+        <rect id="Rectangle_2044" data-name="Rectangle 2044" width="23.597" height="0.874" transform="translate(1573.034 846.954)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

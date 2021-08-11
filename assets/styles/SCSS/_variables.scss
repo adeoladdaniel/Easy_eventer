@@ -1,0 +1,40 @@
+$white-color: #fff;
+$primary-color: #162438;
+$text-gray-light: rgb(232, 234, 238);
+$text-gray: #C2C5CA;
+$transparent-grey: rgba(194, 197, 202, 0.089);
+$text-gray-200: #707070;
+$work-main-bg: #f4f4f4;
+$easy-bg : #162438;
+$easy-bg-transparent : #162438cb;
+$event-blue: #4A94E9;
+$event-blue-transparent: #4a94e91f;
+$easy-black:black;
+// $event-blue-transparent: rgba(74, 148, 233, 0.34);
+$dispatch-blue: #0079BD;
+$eat-green: #3FB583;
+$pay-orange: #ED8F12;
+$input-gray: #F2F2F4;
+$privacy-color: #232846;
+
+// Media Queries
+@mixin mediaSm {
+    @media screen and (max-width: 500px){
+        @content;
+    }
+}
+@mixin mediaMd {
+    @media screen and (max-width: 768px){
+        @content;
+    }
+}
+@mixin mediaLg {
+    @media screen and (min-width: 769px) and (max-width: 1170px){
+        @content;
+    }
+}
+@mixin mediaXl {
+    @media screen and (min-width: 1200px){
+        @content;
+    }
+}
